@@ -1,5 +1,4 @@
 require 'dotenv/tasks'
-
 require_relative './lib/humane_society'
 
 namespace :humane_society do
