@@ -88,7 +88,7 @@ class DogManager
       dog_listings_text += "Age: #{dog["age"]}\n"
       dog_listings_text += "Weight: #{dog["weight"]}\n"
       dog_listings_text += "Sex: #{dog["sex"]}\n"
-      dog_listings_text += "\n\n"
+      dog_listings_text += "\n"
     end
 
     dog_listings_text += SHELTER_URL
