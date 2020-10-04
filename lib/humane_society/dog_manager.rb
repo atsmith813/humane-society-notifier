@@ -1,4 +1,3 @@
-require 'pry'
 class DogManager
   SHELTER_URL = "https://www.shelterluv.com/available_pets/5937?species=Dog".freeze
 
